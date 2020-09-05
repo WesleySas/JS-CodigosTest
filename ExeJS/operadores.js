@@ -5,13 +5,13 @@
 // >=   Maior igual a
 // =<   Menor igual A
 
-// const a = 5
-// const b = 6
+ const a = 6
+ const b = 7
 
-// console.log (a > b) // Tem q dar false
-// console.log (a < b) // Tem q dar true
-// console.log (a >= b) // Tem q dar false
-// console.log (a <= b) // tem q dar true
+console.log (a > b) // Tem q dar false
+console.log (a < b) // Tem q dar true
+console.log (a >= b) // Tem q dar false
+console.log (a <= b) // tem q dar true
 
 
 // Operadores de igualdade
